@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcome">"La aplicacion esta preparada para usarse en tu dispositivo Wear! Desliza desde el borde superior izquierdo para abrir el panel."</string>
+<string name="action_settings">"
+Ajustes"</string>
+<string name="enable_drawer">"Activar lanzador"</string>
+<string name="settings">"Ajustes"</string>
+<string name="enable_haptic">"Activar vibracion"</string>
+<string name="not_connected">"Dispositivo no conectado. Por favor conéctalo."</string>
+<string name="icon_size">"Tamaño de iconos"</string>
+<string name="show_label">"Mostrar etiquetas"</string>
+<string name="small">"Pequeño"</string>
+<string name="medium">"Medio"</string>
+<string name="large">"Grande"</string>
+<string name="black_transparent">"Negro transparente"</string>
+<string name="black_opaque">"Negro opaco"</string>
+<string name="white_transparent">"Blanco transparente"</string>
+<string name="white_opaque">"Blanco opaco"</string>
+<string name="drawer_style">"Estilo de panel"</string>
+<string name="column_count">"Numero de columnas"</string>
+<string name="synchronizing">"Este es el primer arranque. Contactando con tu dispositivo para iniciar el lanzador"</string>
+<string name="no_device">"No hay dispositivo conectado. Por favor, conecta tu Wear o abre la aplicacion usando el menu \"Iniciar\""</string>
+<string name="drawer_type">"Mostrar aplicaciones primero"</string>
+<string name="drawer_type_description">"Mostrar la lista de aplicaciones primero"</string>
+<string name="donation">"Donación"</string>
+<string name="app_management">"Aplicaciones favoritas"</string>
+<string name="donation_title">"Donar al desarrollador"</string>
+<string name="drawer_position">"Posición del panel"</string>
+<string name="crash_title">"La aplicacion Wear Mini Launcher ha fallado"</string>
+<string name="crash_text">"¿Te gustaria mandar un reporte al desarrollador?"</string>
+<string name="send">"Enviar"</string>
+<string name="never_show">"No mostrar de nuevo"</string>
+<string name="crash_opt_out">"Mostrar notificación de fallos"</string>
+
+<!-- Wear app -->
+<string name="drawer">"Activar lanzador"</string>
+<string name="brightness">"Brillo"</string>
+<string name="more_on_phone">"Más en el telefono"</string>
+<string name="wear">"Wear"</string>
+<string name="phone">"Telefono"</string>
+<string name="tuto">"Deslizar de nuevo para Ajustes Rápidos"</string>
+<string name="media_volume">"Volumen media"</string>
+<string name="handheld_wifi">"Manejar wifi"</string>
+
+<!-- Volumen del telefono -->
+<string name="volume_phone">"Volumen teléfono"</string>
+<string name="ring_phone">"Hacer sonar el teléfono"</string>
+<string name="tethering">"Manejar Tethering"</string>
+<string name="media_volume_increase">"Subir volumen media"</string>
+<string name="media_volume_decrease">"Bajar volumen media"</string>
+<string name="app_not_existing">"Esta aplicación ya no está instalada. Será borrada."</string>
+<string name="main_pref">"Preferencias principales"</string>
+<string name="custom_pref">"Personalización"</string>
+<string name="behavior_pref">"Comportamiento"</string>
+<string name="app_sort">"Ordenar Apps"</string>
+<string name="licenses">"Licencias"</string>
+<string name="retry">"Reintentar"</string>
+<string name="try_reboot">"Si tu dispositivo Wear está conectado, por favor intenta reiniciar tu reloj."</string>
+<string name="enable_tasks">"Habilitar comandos"</string>
+<string name="enable_tasks_summary">"Añade comandos de voz como Detener Cronometro, Añadir Alarma..."</string>
+<string name="stock_style">"Estilo Stock"</string>
+<string name="foreground">"Primer Plano"</string>
+<string name="background">"Segundo Plano
+"</string>
+<string name="quick_settings_style">"Estilo Ajustes Rapidos"</string>
+<string name="lost_phone">"Desconectado del teléfono"</string>
+<string name="bookmark">"Marcar aplicación"</string>
+<string name="hide">"Ocultar aplicación"</string>
+<string name="uninstall">"Desinstalar"</string>
+<string name="info">"Información"</string>
+<string name="always_on">"Pantalla siempre encendida"</string>
+<string name="lock_screen_learnt">"Pantalla siempre encendida. 
+Pulsa para salir, mantén pulsado para cambiar de posición."</string>
+<string name="content">"Contenido"</string>
+<string name="Drawer">"Cajón"</string>
+<string name="app_specific">"Ajustes específicos de aplicación"</string>
+<string name="app_management_summary">"Aplicaciones que estarán al principio de la lista"</string>
+<string name="about">"Acerca de..."</string>
+<string name="colors">"Colores"</string>
+<string name="list">"Lista"</string>
+<string name="large_handle">"Área de lanzamiento grande"</string>
+<string name="large_handle_summary">"Aumenta el tamaño del área de lanzamiento para hacer mas fácil abrir el cajón de aplicaciones."</string>
+<string name="blocked_apps">"Aplicaciones excluidas del lanzador"</string>
+<string name="blocked_apps_summary">"Cuando una aplicación está en la lista de exclusión, el lanzador estará inactivo cuando la aplicación esté funcionando."</string>
+<string name="excluded_apps">"Aplicaciones ocultas."</string>
+<string name="excluded_apps_summary">"Las aplicaciones ocultas no aparecen en el lanzador."</string>
+<string name="tools_pref">"Herramientas"</string>
+<string name="lost_phone_notification">"Notificación de teléfono perdido"</string>
+<string name="enable_lost_phone_notification">"Activar notificación"</string>
+<string name="enable_lost_phone_notification_description">"Sé notificado cuando el teléfono está fuera del rango"</string>
+<string name="lost_phone_vibration_pattern">"Patrón de vibración"</string>
+<string name="lost_phone_screen">"Pantalla de teléfono perdido"</string>
+<string name="lost_phone_screen_description">"Mostrar una pantalla cuando la conexión se ha perdido."</string>
+<string name="others_pref">"Otros"</string>
+<string name="connection_status">"Estado de la conexión"</string>
+<string name="pref_not_sent">"Tu reloj no está conectado. Los ajustes no pueden ser sincronizados."</string>
+<string name="donation_call">"Wear Mini Launcher es una aplicación gratuita. Ayuda con una pequeña donación."</string>
+<string name="sure">"¡Por supuesto!"</string>
+    <string name="app_list_layout">Aplicación Diseño de lista</string>
+    <string name="modern_style">Moderno</string>
+    <string name="classic_style">Classic</string>
+</resources>
