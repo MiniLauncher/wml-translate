@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="action_settings">设置</string>
+    <string name="icon_size">图标尺寸</string>
+    <string name="classic_style">经典</string>
+    </resources>
