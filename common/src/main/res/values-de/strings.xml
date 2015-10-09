@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcome">"Die App wurde auf Deinem Wear Gerät eingerichtet! Wische nun von der oberen linken Ecke nach rechts, um den Launcher zu öffnen."</string>
+<string name="action_settings">"Einstellungen"</string>
+<string name="enable_drawer">"Launcher aktivieren"</string>
+<string name="settings">"Einstellungen"</string>
+<string name="enable_haptic">"Haptisches Feedback"</string>
+<string name="not_connected">"Wear Gerät nicht erreichbar! Bitte verbinde Dich mit dem Wear Gerät."</string>
+<string name="icon_size">"Icon Größe"</string>
+<string name="show_label">"Namen anzeigen"</string>
+
+<string name="app_list_layout">"App Listenlayout"</string>
+<string name="modern_style">"Moderne"</string>
+<string name="classic_style">"Klassisch"</string>
+<string name="stock_style">"Original Stil"</string>
+
+<string name="small">"Klein"</string>
+<string name="medium">"Mittel"</string>
+<string name="large">"Groß"</string>
+<string name="black_transparent">"Transparentes Schwarz"</string>
+<string name="black_opaque">"Schwarz"</string>
+<string name="white_transparent">"Transparentes Weiß"</string>
+<string name="white_opaque">"Weiß"</string>
+<string name="drawer_style">"Launcher Design"</string>
+<string name="column_count">"Spaltenzahl"</string>
+<string name="synchronizing">"Das ist der erste Start. Verbinde Dich mit Deinem Wear Gerät, um den Launcher zu starten."</string>
+<string name="no_device">"Es wurde kein Gerät gefunden. Verbinde Dich mit Deinem Wear Gerät oder starte die Wear App über das Wear Startmenü."</string>
+<string name="drawer_type">"Apps zuerst anzeigen"</string>
+<string name="drawer_type_description">"Steuerelemente zuerst anzeigen"</string>
+<string name="donation">"Spenden"</string>
+<string name="app_management">"Favoriten festlegen"</string>
+<string name="donation_title">"Spende an den Entwickler"</string>
+<string name="drawer_position">"Launcher Position"</string>
+<string name="crash_title">"Wear Mini Launcher ist abgestürzt!"</string>
+<string name="crash_text">"Möchtest du einen Fehlerbericht senden?"</string>
+<string name="send">"Senden"</string>
+<string name="never_show">"Nicht wieder anzeigen"</string>
+<string name="crash_opt_out">"Benachrichtigung bei Abstürzen anzeigen"</string>
+
+<!-- Wear app -->
+<string name="drawer">"Launcher aktivieren"</string>
+<string name="brightness">"Helligkeit"</string>
+<string name="more_on_phone">"Auf Telefon öffnen"</string>
+<string name="wear">"Wear"</string>
+<string name="phone">"Telefon"</string>
+
+<!-- Quick Settings is not "Steuerelemente". -->
+<string name="tuto">"Erneut wischen für Schnelleinstellungen"</string>
+<string name="media_volume">"Medien Lautstärke"</string>
+<string name="handheld_wifi">"WLAN"</string>
+<string name="volume_phone">"Klingelton Lautstärke"</string>
+<string name="ring_phone">"Ton abspielen"</string>
+<string name="tethering">"Tethering"</string>
+<string name="media_volume_increase">"Lautstärke erhöhen"</string>
+<string name="media_volume_decrease">"Lautstärke verringern"</string>
+<string name="app_not_existing">"Diese App ist nicht mehr installiert und wird gelöscht."</string>
+<string name="main_pref">"Haupt-Voreinstellungen"</string>
+<string name="custom_pref">"Anpassung"</string>
+<string name="behavior_pref">"Verhalten"</string>
+<string name="app_sort">"App-Sortierung"</string>
+<string name="licenses">"Lizenzen"</string>
+<string name="retry">"Erneut versuchen"</string>
+<string name="try_reboot">"Wenn dein Android Wear Gerät verbunden ist, versuche bitte, es neu zu starten."</string>
+<string name="enable_tasks">"Aufgaben aktivieren"</string>
+<string name="enable_tasks_summary">"Aufgaben hinzufügen als Stoppuhr, SetAlarm..."</string>
+<string name="foreground">"Vordergrund"</string>
+<string name="background">"Hintergrund"</string>
+<string name="quick_settings_style">"Schnelleinstellungen Stil"</string>
+<string name="lost_phone">"Verbindung verloren"</string>
+<string name="bookmark">"Lesezeichen App"</string>
+<string name="hide">"App ausblenden"</string>
+<string name="uninstall">"Deinstallieren"</string>
+<string name="info">"Info"</string>
+<string name="always_on">"Bildschirm immer aktiv"</string>
+<string name="lock_screen_learnt">"Bildschirm bleibt aktiv. Tippen zum verlassen, lange tippen um Position zu ändern."</string>
+<string name="content">"Inhalt"</string>
+<string name="Drawer">"Drawer"</string>
+<string name="app_specific">"App-spezifische Einstellungen"</string>
+<string name="app_management_summary">"Diese Apps oben anzeigen"</string>
+<string name="about">"Über"</string>
+<string name="colors">"Farben"</string>
+<string name="list">"Liste"</string>
+<string name="large_handle">"Breiter Griff"</string>
+<string name="large_handle_summary">"Griff verbreitern, damit der Drawer einfacher zu öffnen ist"</string>
+<string name="blocked_apps">"Apps vom Launcher ausschließen"</string>
+<string name="blocked_apps_summary">"Wenn eine App in der Ausschlussliste enthalten ist, ist der Launcher inaktiv, wenn die App gestartet ist"</string>
+<string name="excluded_apps">"Versteckte Apps"</string>
+<string name="excluded_apps_summary">"Versteckte Apps erscheinen nicht im Launcher"</string>
+<string name="tools_pref">"Tools"</string>
+<string name="enable_lost_phone_notification">"Benachrichtigung aktivieren"</string>
+<string name="enable_lost_phone_notification_description">"Benachrichtigen, wenn Telefon außer Reichweite"</string>
+<string name="lost_phone_vibration_pattern">"Vibrationsmuster"</string>
+<string name="others_pref">"Sonstige"</string>
+<string name="connection_status">"Verbindungsstatus"</string>
+<string name="pref_not_sent">"Keine Verbindung zur Uhr. Die Einstellungen können nicht synchronisiert werden."</string>
+<string name="donation_call">"Wear Mini Launcher ist eine freie App. Unterstütze es mit einer kleinen Spende."</string>
+<string name="sure">"SICHER!"</string>
+</resources>
