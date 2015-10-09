@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcome">"已可以在您的 Wear 裝置使用！在裝置左上角向右滑動就可以打開列表。"</string>
+<string name="action_settings">"設定"</string>
+<string name="enable_drawer">"啟動應用程式頁"</string>
+<string name="settings">"設定"</string>
+<string name="enable_haptic">"啟動震動回應"</string>
+<string name="not_connected">"找不到 Wear。請連接您的 Wear 裝置"</string>
+<string name="icon_size">"圖示大小"</string>
+<string name="show_label">"顯示標題"</string>
+<string name="small">"小"</string>
+<string name="medium">"中"</string>
+<string name="large">"大"</string>
+<string name="black_transparent">"黑色透明"</string>
+<string name="black_opaque">"黑色"</string>
+<string name="white_transparent">"白色透明"</string>
+<string name="white_opaque">"白色"</string>
+<string name="drawer_style">"應用程式頁風格"</string>
+<string name="column_count">"欄數"</string>
+<string name="synchronizing">"首次開啟。請在 Wear 裝置打開應用程式頁。"</string>
+<string name="no_device">"沒有裝買連接。請連接您的 Wear 裝置或打 Wear 應用程式。"</string>
+<string name="drawer_type">"先顯示應用程式"</string>
+<string name="drawer_type_description">"首先顯示應用程式名單"</string>
+<string name="donation">"捐款"</string>
+<string name="app_management">"置頂應用程式"</string>
+<string name="donation_title">"給開發人員一點鼓勵"</string>
+<string name="drawer_position">"應用程式頁開啟位置"</string>
+<string name="crash_title">"Wear 小型啟動器發生錯誤"</string>
+<string name="crash_text">"您希望把偵錯報告回報給開發人員？"</string>
+<string name="send">"傳送"</string>
+<string name="never_show">"永不顯示"</string>
+<string name="crash_opt_out">"當發生錯誤時顯示通知"</string>
+
+<!-- Wear app -->
+<string name="drawer">"啟動應用程式頁"</string>
+<string name="brightness">"亮度"</string>
+<string name="more_on_phone">"電話中顯示更多"</string>
+<string name="wear">"Wear"</string>
+<string name="phone">"電話"</string>
+<string name="tuto">"再滑動多一次可開啟快速設定"</string>
+<string name="media_volume">"媒體音量"</string>
+<string name="handheld_wifi">"裝置 WiFi"</string>
+<string name="volume_phone">"電話鈴聲"</string>
+<string name="ring_phone">"令電話發出響聲"</string>
+<string name="tethering">"裝置網絡共用"</string>
+<string name="media_volume_increase">"大聲"</string>
+<string name="media_volume_decrease">"小聲"</string>
+<string name="app_not_existing">"此應用程式已被移除。"</string>
+    <string name="app_list_layout">應用程序列表佈局</string>
+    <string name="modern_style">現代</string>
+    <string name="classic_style">經典</string>
+    <string name="stock_style">基本風格</string>
+</resources>
