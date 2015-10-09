@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcome">"Приложение готово к использованию на вашем носимом устройстве! Проведите пальцем из верхнего левого угла экрана что бы открыть панель."</string>
+<string name="action_settings">"Настройки"</string>
+<string name="enable_drawer">"Включить панель"</string>
+<string name="settings">"Настройки"</string>
+<string name="enable_haptic">"Включить вибрацию"</string>
+<string name="not_connected">"Носимое устройство недоступно. Пожалуйста проверьте подключение"</string>
+<string name="icon_size">"Размер иконок"</string>
+
+<!-- Field has cut off a part of the text on the screen. This variant of translation will fit better. -->
+<string name="show_label">"Подписи к иконкам"</string>
+<string name="small">"Маленький"</string>
+<string name="medium">"Средний"</string>
+<string name="large">"Большой"</string>
+<string name="black_transparent">"Черный прозрачный"</string>
+<string name="black_opaque">"Черный непрозрачный"</string>
+<string name="white_transparent">"Белый прозрачный"</string>
+<string name="white_opaque">"Белый непрозрачный"</string>
+<string name="drawer_style">"Стиль основной панели"</string>
+
+<!-- Description beneath main option looks like "2 columns" in English but should looks like "2 колонки".
+"1 column" = "1 колонка"
+"2 columns" = "2 колонки"
+"3 columns" = "3 колонки"
+... -->
+<string name="column_count">"Число колонок"</string>
+<string name="synchronizing">"Это первый запуск. Подключаемся к носимому устройству для запуска панели."</string>
+<string name="no_device">"Подключение отсутствует. Пожалуйста проверьте соединение с устройством или откройте приложение через меню Пуск."</string>
+<string name="drawer_type">"Показывать приложения первыми"</string>
+<string name="drawer_type_description">"Отображать список приложений первым"</string>
+<string name="donation">"Пожертвование"</string>
+
+<!-- эта функция открывает окно с приложениями для выбора более приоритетных, потому никакие варианты с "Закладками" не просматриваются -->
+<string name="app_management">"Избранные приложения"</string>
+<string name="donation_title">"Поддержать разработчика"</string>
+
+<!-- Same text should be in the title of the pop-up window (there we choose the position) -->
+<string name="drawer_position">"Расположение панели"</string>
+<string name="crash_title">"В приложении Wear Mini Launcher произошел сбой"</string>
+<string name="crash_text">"Хотите отправить информацию о сбое разработчику?"</string>
+<string name="send">"Отправить"</string>
+<string name="never_show">"Не показывать больше"</string>
+<string name="crash_opt_out">"Показывать уведомление при сбоях"</string>
+
+<!-- Wear app -->
+<string name="drawer">"Включить панель"</string>
+<string name="brightness">"Яркость"</string>
+<string name="more_on_phone">"Открыть на телефоне"</string>
+<string name="wear">"Носимое устройство"</string>
+<string name="phone">"Телефон"</string>
+<string name="tuto">"Сдвиньте повторно для Быстрых Настроек"</string>
+<string name="media_volume">"Громкость звука"</string>
+<string name="handheld_wifi">"WiFi на смартфоне"</string>
+<string name="volume_phone">"Звонок телефона"</string>
+<string name="ring_phone">"Вызов на телефон"</string>
+<string name="tethering">"Смартфон как точка доступа"</string>
+<string name="media_volume_increase">"Увеличить громкость"</string>
+<string name="media_volume_decrease">"Уменьшить громкость"</string>
+<string name="app_not_existing">"Приложение не найдено. Оно будет удалено."</string>
+<string name="main_pref">"Главные настройки"</string>
+<string name="custom_pref">"Индивидуальные настройки"</string>
+<string name="behavior_pref">"Режим"</string>
+<string name="app_sort">"Сортировка"</string>
+<string name="licenses">"Лицензии"</string>
+<string name="retry">"Повтор"</string>
+<string name="try_reboot">"Если ваше устройство подключено, пожалуйста попробуйте его перезагрузить "</string>
+<string name="enable_tasks">"Включить задачи"</string>
+<string name="enable_tasks_summary">"Задачи голосом такие как \"Таймер\", \"Установить Будильник\".."</string>
+<string name="stock_style">"Базовый стиль"</string>
+<string name="foreground">"Цвет подписи"</string>
+<string name="background">"Цвет фона"</string>
+<string name="quick_settings_style">"Стиль панели настроек"</string>
+<string name="lost_phone">"Отключено от телефона"</string>
+<string name="bookmark">"Закрепить приложение"</string>
+<string name="hide">"Скрыть приложение"</string>
+<string name="uninstall">"Удалить"</string>
+<string name="info">"Информация"</string>
+<string name="always_on">"Блокировать экран"</string>
+<string name="lock_screen_learnt">"Экран заблокирован,
+коснитесь для выхода, долгое касание для смены позиции "</string>
+<string name="content">"Контент"</string>
+<string name="Drawer">"Панель"</string>
+<string name="app_specific">"Доп. настройки"</string>
+<string name="app_management_summary">"Приложения в верхней части списка"</string>
+<string name="about">"О приложении"</string>
+<string name="colors">"Цвета"</string>
+<string name="list">"Список"</string>
+<string name="large_handle">"Широкая область"</string>
+<string name="large_handle_summary">"Увеличьте размер область захвата, для более легкого открытия панели"</string>
+<string name="blocked_apps">"Список исключений"</string>
+<string name="blocked_apps_summary">"Когда приложение в Списке исключений лаунчер не будет открываться до закрытия приложения "</string>
+<string name="excluded_apps">"Скрытые приложения"</string>
+<string name="excluded_apps_summary">"Скрытые приложения не видны в лаунчере"</string>
+<string name="tools_pref">"Инструменты"</string>
+<string name="lost_phone_notification">"Оповещение о потерянном телефоне"</string>
+<string name="enable_lost_phone_notification">"Включить уведомления"</string>
+<string name="enable_lost_phone_notification_description">"Оповещать когда телефон вне зоны "</string>
+<string name="lost_phone_vibration_pattern">"Шаблон для вибрации"</string>
+<string name="lost_phone_screen">"Экран при потере телефона"</string>
+<string name="lost_phone_screen_description">"Показывать экран, когда прервано соединение "</string>
+<string name="others_pref">"Прочее"</string>
+<string name="connection_status">"Статус соединения"</string>
+<string name="pref_not_sent">"Ваши часы не подключены. Настройки не могут быть синхронизированы."</string>
+<string name="donation_call">"Wear Mini Launcher бесплатное приложение. Поддержите разработку небольшим пожертвованием."</string>
+<string name="sure">"Конечно!"</string>
+    <string name="app_list_layout">App список макет</string>
+    <string name="modern_style">Современное</string>
+    <string name="classic_style">классический</string>
+</resources>
