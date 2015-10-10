@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toggles_summary">Choose toggles to display</string>
+    <string name="device_admin">Wear Mini Launcher</string>
+    <string name="device_admin_description">Allows Wear Mini Launcher to lock your screen</string>
+    <string name="add">Add</string>
+    <string name="music_play_on_watch">Play music on watch</string>
+    <string name="music_play_on_watch_description">Control music on watch\'s playback instead of music on phone. Useful when paired with bluetooth headphone or speakers.</string>
+    <string name="pattern_recuperation">Lock pattern lost</string>
+    <string name="unlock_watch">Unlock watch</string>
+    <string name="reset_pattern">Reset pattern</string>
+    <string name="lock_pattern_reset">Lock pattern successfully reset</string>
+    <string name="crash_opt_out_title">Send anonymous crash reports</string>
+    <string name="crash_opt_out_summary"></string>
+    <string name="iab_error">Unable to connect to the Play Store. Verify your internet connection.</string>
+    <string name="privacy_title">Send anonymous usage data</string>
+    <string name="privacy_summary"></string>
+    <string name="color_same_error_message">Foreground color and background color is same</string>
+    <string name="apps_drawer">Apps drawer</string>
+    <string name="layout">Layout</string>
+    <string name="sort">Sort</string>
+    <string name="color_sytle">Style</string>
+    <string name="widgets_drawer">Widgets drawer</string>
+    <string name="wmw_setting_title">Wear Mini Watch Face</string>
+    <string name="moto_setting_title">Moto Watch Face</string>
+    <string name="huawei_setting_title">Huawei Watch Face</string>
+    <string name="change_interactive_icon_title">Tap highlighted area to set interactive action on this watch face: </string>
+    <string name="change_assistive_options_title">Tap an icon to change: </string>
+    <string name="reset_title">Reset</string>
+</resources>
