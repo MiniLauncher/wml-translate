@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome">The app is ready to be used on your wear device! Just slide from the upper-left corner to open the drawer.</string>
@@ -25,7 +24,7 @@
     <string name="white_opaque">Opaque white</string>
     <string name="drawer_style">Drawer style</string>
     <string name="column_count">Column count</string>
-    <string name="synchronizing">This is the first launch. Contacting your wear device to launch the drawer.</string>
+    <string name="synchronizing">Android wear device not detected, please pair your wear device with your phone through Android Wear App before you can use Wear Mini Launcher.</string>
     <string name="no_device">No device connected. Please connect your Wear or open the wear app using the Start menu.</string>
     <string name="drawer_type">First drawer</string>
     <string name="drawer_type_apps_first">Apps drawer</string>
@@ -120,6 +119,8 @@
     <string name="show_brightness_description">Show brightness slider</string>
     <string name="flashlight">Mini flashlight</string>
     <string name="airplane">Airplane mode</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="clean_memory">Clear memory</string>
     <string name="watchface_compatibility">WatchFace compatibility</string>
     <string name="watchface_compatibility_summary">Force launcher to be on top of watch faces</string>
     <string name="lock_pattern">Lock pattern</string>
@@ -127,4 +128,10 @@
     <string name="advanced_pref">Advanced</string>
     <string name="please_set_watch_face">Please Select Wear Mini Launcher as your watch face in Android Wear App to take advantage of our advanced interactive actions.</string>
     <string name="go">Go!</string>
+    <string name="pref_assistive_touch_category">Assistive touch</string>
+    <string name="pref_enable_assistive_touch">Enable assistive touch</string>
+    <string name="pref_interactive_options">Interactive options</string>
+    <string name="pref_icon">Icon</string>
+    <string name="interactive_options">Interactive options</string>
+    <string name="cleaned">Cleaned</string>
 </resources>
