@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="welcome">应用已经可以使用了！请沿屏幕左上角向右滑动即可打开。</string>
     <string name="action_settings">设置</string>
@@ -126,4 +126,6 @@
     <string name="advanced_pref">高级</string>
     <string name="please_set_watch_face">请在Android Wear应用中选择Mini Wear Luancher表盘，体验我们最新的交互表盘功能</string>
     <string name="go">开始吧!</string>
-</resources>
+<string name="back_to_home">回到表盘</string>
+    <string name="clean_memory">清理内存</string>
+    </resources>
