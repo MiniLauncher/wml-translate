@@ -3,4 +3,9 @@
     <string name="icon_size">图标尺寸</string>
     <string name="classic_style">经典</string>
     <string name="settings">设置</string>
+    <string name="modern_style">时尚</string>
+    <string name="medium">中</string>
+    <string name="large">大</string>
+    <string name="small">小</string>
+    <string name="app_list_layout">应用列表布局</string>
     </resources>
